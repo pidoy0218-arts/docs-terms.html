@@ -1,4 +1,4 @@
-# docs/terms.html
+# docs-terms.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
